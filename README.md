@@ -19,9 +19,6 @@
 
 Instead of a standard static text-to-type test, words dynamically fall from the top of the screen. The player must type the correct target vocabulary before it reaches the bottom. Every successful word increases your score and slightly accelerates the dropping speed, adding to the thrill! This project specifically features IT, computer science, and programming-related vocabulary to help developers familiarize themselves with standard tech jargon.
 
-<div align="center">
-
-
 ## ✨ Key Features
 
 - 🎮 **Dynamic Difficulty:** The word falling speed naturally scales up every time you type a word correctly.
@@ -31,7 +28,10 @@ Instead of a standard static text-to-type test, words dynamically fall from the 
 - 💻 **CS Vocabulary:** Master typing tech jargons like `algorithm`, `blockchain`, `boolean`, `variable`, and more.
 
 ## 🎥 Demo
-![Project Demo](typingtestgame.gif)<i>Gameplay Demo - Enjoy typing with a beautiful dynamic video background!</i></p>
+
+<div align="center">
+  <img src="asset/typingtestgame.gif" alt="Project Demo" width="80%">
+  <p><i>Gameplay Demo - Enjoy typing with a beautiful dynamic video background!</i></p>
 </div>
 ## 🚀 Getting Started
 
