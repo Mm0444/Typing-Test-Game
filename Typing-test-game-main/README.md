@@ -20,11 +20,7 @@
 Instead of a standard static text-to-type test, words dynamically fall from the top of the screen. The player must type the correct target vocabulary before it reaches the bottom. Every successful word increases your score and slightly accelerates the dropping speed, adding to the thrill! This project specifically features IT, computer science, and programming-related vocabulary to help developers familiarize themselves with standard tech jargon.
 
 <div align="center">
-## 🎥 Demo
-<p align="center">
-  <img src="assets/typingyestgame.gif" width="600"/>
-</p><i>Gameplay Demo - Enjoy typing with a beautiful dynamic video background!</i></p>
-</div>
+
 
 ## ✨ Key Features
 
@@ -34,6 +30,11 @@ Instead of a standard static text-to-type test, words dynamically fall from the 
 - ⏸️ **Pause & Resume:** Built-in state management allowing the player to pause the game at any moment to catch their breath.
 - 💻 **CS Vocabulary:** Master typing tech jargons like `algorithm`, `blockchain`, `boolean`, `variable`, and more.
 
+## 🎥 Demo
+<p align="center">
+  <img src="assets/typingyestgame.gif" width="600"/>
+</p><i>Gameplay Demo - Enjoy typing with a beautiful dynamic video background!</i></p>
+</div>
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
