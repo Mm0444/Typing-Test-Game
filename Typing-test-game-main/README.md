@@ -32,7 +32,7 @@ Instead of a standard static text-to-type test, words dynamically fall from the 
 
 ## 🎥 Demo
 <p align="center">
-  <img src="./asset/demo.gif" width="600"/>
+  <img src="../asset/demo.gif" width="600"/>
 </p>
 </p><i>Gameplay Demo - Enjoy typing with a beautiful dynamic video background!</i></p>
 </div>
