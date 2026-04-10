@@ -15,7 +15,7 @@
 
 ## 🌟 About The Project
 
-**Falling Words** is an engaging and dynamic typing test game built entirely with vanilla Web Technologies (HTML, CSS, and JavaScript). 
+**Typing Test Game** is an engaging and dynamic typing test game built entirely with vanilla Web Technologies (HTML, CSS, and JavaScript). 
 
 Instead of a standard static text-to-type test, words dynamically fall from the top of the screen. The player must type the correct target vocabulary before it reaches the bottom. Every successful word increases your score and slightly accelerates the dropping speed, adding to the thrill! This project specifically features IT, computer science, and programming-related vocabulary to help developers familiarize themselves with standard tech jargon.
 
